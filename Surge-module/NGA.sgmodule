@@ -1,0 +1,5 @@
+#!name=NGA Direct
+#!desc=Visit NGA directly
+[Rule]
+DOMAIN-KEYWORD,ngabbs,DIRECT
+DOMAIN-KEYWORD,nga,DIRECT
