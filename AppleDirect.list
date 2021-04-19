@@ -1,0 +1,31 @@
+USER-AGENT,*com.apple.mobileme.fmip1
+# Weather
+USER-AGENT,*WeatherFoundation*
+DOMAIN,weather-data.apple.com
+# Settings
+USER-AGENT,%E8%AE%BE%E7%BD%AE*
+USER-AGENT,FindMyFriends*
+USER-AGENT,FindMyiPhone*
+USER-AGENT,FMDClient*
+USER-AGENT,FMFD*
+USER-AGENT,fmflocatord*
+# Spotlight
+DOMAIN,api.smoot.apple.com
+DOMAIN,api.smoot.apple.cn
+# Hotspot captive
+DOMAIN,captive.apple.com
+# Apple Pay
+DOMAIN,smp-device-content.apple.com
+DOMAIN-KEYWORD,smp-device
+USER-AGENT,passd*
+USER-AGENT,Wallet*
+# Reserve
+DOMAIN,reserve-prime.apple.com
+# Push
+DOMAIN-KEYWORD,push-apple.com.akadns.net
+DOMAIN-SUFFIX,push.apple.com.akadns.net
+DOMAIN-SUFFIX,push.apple.com
+# Asset Cache Locator Service
+DOMAIN-SUFFIX,lcdn-locator.apple.com
+# Caching Server Registration
+DOMAIN-SUFFIX,lcdn-registration.apple.com
