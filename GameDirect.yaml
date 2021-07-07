@@ -1,13 +1,13 @@
 payload:
 # Games Direct
 #> Steam
-DOMAIN-SUFFIX,steamcontent.com
-DOMAIN-SUFFIX,steamgames.com
-DOMAIN-SUFFIX,steampowered.com
-DOMAIN-SUFFIX,steamstatic.com
-DOMAIN,steambroadcast.akamaized.net
-DOMAIN,steamcdn-a.akamaihd.net
-DOMAIN,steamstore-a.akamaihd.net
+  - DOMAIN-SUFFIX,steamcontent.com
+  - DOMAIN-SUFFIX,steamgames.com
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,steamstatic.com
+  - DOMAIN,steambroadcast.akamaized.net
+  - DOMAIN,steamcdn-a.akamaihd.net
+  - DOMAIN,steamstore-a.akamaihd.net
 
 #> Ubisoft
-DOMAIN,store.ubi.com
+  - DOMAIN,store.ubi.com
