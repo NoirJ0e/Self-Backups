@@ -1,0 +1,57 @@
+# Steam
+DOMAIN-SUFFIX,steam-chat.com
+DOMAIN-SUFFIX,steamstat.us
+DOMAIN-SUFFIX,steamusercontent.com
+DOMAIN,steamcdn-a.akamaihd.net,DIRECT
+DOMAIN,steamcommunity-a.akamaihd.net
+DOMAIN,steamstore-a.akamaihd.net,DIRECT
+DOMAIN,steamusercontent-a.akamaihd.net
+DOMAIN,steamusercontent-a.akamaihd.net
+DOMAIN,steamuserimages-a.akamaihd.net
+# Steam喜加一
+DOMAIN-SUFFIX,fanatical.com
+DOMAIN-SUFFIX,humblebundle.com
+
+
+# Origin
+DOMAIN-SUFFIX,origin.com
+DOMAIN,cloudsync-prod.s3.amazonaws.com
+DOMAIN,origin-a.akamaihd.net // Akamai
+DOMAIN,ssl-lvlt.cdn.ea.com // Level3-CDN
+DOMAIN,rtm.tnt-ea.com 
+
+
+# Ubisoft
+DOMAIN,store.ubi.com,DIRECT
+DOMAIN-SUFFIX,ubi.com
+DOMAIN-SUFFIX,ubisoft.com
+DOMAIN,ubistatic2-a.akamaihd.net
+DOMAIN,ubisoft-orbit-savegames.s3.amazonaws.com
+DOMAIN,ubisoft-uplay-savegames.s3.amazonaws.com
+#DOMAIN,public-rest.a.upc.ubisoft.com
+#DOMAIN,ubisoft-avatars.akamaized.net
+
+
+# GOG
+DOMAIN-SUFFIX,gog.com
+DOMAIN-SUFFIX,gog-statics.com
+DOMAIN,gog.qtlglb.com
+#DOMAIN,cdn-akamai-ec.gog-statics.com,DIRECT
+#DOMAIN,cdn-hw.gog.com,DIRECT
+#DOMAIN,cdn.gog.com,DIRECT
+
+
+# EpicGames
+DOMAIN-SUFFIX,battlebreakers.com
+DOMAIN-SUFFIX,eac-cdn.com
+DOMAIN-SUFFIX,easy.ac
+DOMAIN-SUFFIX,easyanticheat.net
+DOMAIN-SUFFIX,epicgames.com
+DOMAIN-SUFFIX,fortnite.com
+DOMAIN-SUFFIX,paragon.com
+DOMAIN-SUFFIX,playparagon.com
+DOMAIN-SUFFIX,roborecall.com
+DOMAIN-SUFFIX,shadowcomplex.com
+DOMAIN-SUFFIX,spyjinx.com
+DOMAIN-SUFFIX,unrealengine.com
+DOMAIN-SUFFIX,unrealtournament.com
