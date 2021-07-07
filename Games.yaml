@@ -1,3 +1,4 @@
+payload:
 # Steam
 DOMAIN-SUFFIX,steam-chat.com
 DOMAIN-SUFFIX,steamstat.us
@@ -8,7 +9,7 @@ DOMAIN,steamstore-a.akamaihd.net,DIRECT
 DOMAIN,steamusercontent-a.akamaihd.net
 DOMAIN,steamusercontent-a.akamaihd.net
 DOMAIN,steamuserimages-a.akamaihd.net
-# Steam喜加一
+# Steam 喜加一
 DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,humblebundle.com
 
